@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Yerramilli Shreyesh</h1>
-<h3 align="center">A passionate Full Stack Developer developer</h3>
+<h3 align="center">A passionate Full Stack Web Developer</h3>
 
 - 🔭 I’m currently working on **Java Full Stack Development**
 
